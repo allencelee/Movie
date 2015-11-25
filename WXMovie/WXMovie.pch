@@ -1,0 +1,21 @@
+//
+//  WXMovie.pch
+//  WXMovie
+//
+//  Created by imac on 15/10/21.
+//  Copyright (c) 2015年 rulay. All rights reserved.
+//
+
+#ifndef WXMovie_WXMovie_pch
+#define WXMovie_WXMovie_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#import "UIImageView+WebCache.h"
+#import "UIViewExt.h"
+#import "Hong.h"
+#import "BaseJsonData.h"
+#import "StarView.h"
+#import "BaseNavigationController.h"
+#import "BaseModel.h"
+#endif
